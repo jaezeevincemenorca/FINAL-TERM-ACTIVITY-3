@@ -1,0 +1,13 @@
+C:\Users\jaeze\source\repos\ACTIVITY#3_MENORCA\ACTIVITY#3_MENORCA\obj\Debug\ACTIVITY#3_MENORCA.csproj.AssemblyReference.cache
+C:\Users\jaeze\source\repos\ACTIVITY#3_MENORCA\ACTIVITY#3_MENORCA\obj\Debug\ACTIVITY_3_MENORCA.Properties.Resources.resources
+C:\Users\jaeze\source\repos\ACTIVITY#3_MENORCA\ACTIVITY#3_MENORCA\obj\Debug\Activity_3_MENORCA.RegisterForm.resources
+C:\Users\jaeze\source\repos\ACTIVITY#3_MENORCA\ACTIVITY#3_MENORCA\obj\Debug\ACTIVITY#3_MENORCA.csproj.GenerateResource.cache
+C:\Users\jaeze\source\repos\ACTIVITY#3_MENORCA\ACTIVITY#3_MENORCA\obj\Debug\ACTIVITY#3_MENORCA.csproj.CoreCompileInputs.cache
+C:\Users\jaeze\source\repos\ACTIVITY#3_MENORCA\ACTIVITY#3_MENORCA\obj\Debug\Activity_3_MENORCA.SignInForms.resources
+C:\Users\jaeze\source\repos\ACTIVITY#3_MENORCA\ACTIVITY#3_MENORCA\bin\Debug\sampledb.accdb
+C:\Users\jaeze\source\repos\ACTIVITY#3_MENORCA\ACTIVITY#3_MENORCA\bin\Debug\ACTIVITY#3_MENORCA.exe.config
+C:\Users\jaeze\source\repos\ACTIVITY#3_MENORCA\ACTIVITY#3_MENORCA\bin\Debug\ACTIVITY#3_MENORCA.exe
+C:\Users\jaeze\source\repos\ACTIVITY#3_MENORCA\ACTIVITY#3_MENORCA\bin\Debug\ACTIVITY#3_MENORCA.pdb
+C:\Users\jaeze\source\repos\ACTIVITY#3_MENORCA\ACTIVITY#3_MENORCA\obj\Debug\ACTIVITY#3_MENORCA.exe
+C:\Users\jaeze\source\repos\ACTIVITY#3_MENORCA\ACTIVITY#3_MENORCA\obj\Debug\ACTIVITY#3_MENORCA.pdb
+C:\Users\jaeze\source\repos\ACTIVITY#3_MENORCA\ACTIVITY#3_MENORCA\obj\Debug\ACTIVITY_3_MENORCA.DashboardForm.resources
